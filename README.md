@@ -1,5 +1,5 @@
 # Aquarium-Stocker
-An Android app to help you stock and keep track of your aquariums on the go.
+An Android app to help you stock and keep track of your aquariums on the go. Allows you to make stocking lists, edit those stocking lists dynamically and keep your aquarium parameters in check (all from a simple and easy to use interface).
 
 There are two ways to run this program.
 
